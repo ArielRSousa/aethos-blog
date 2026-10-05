@@ -6,7 +6,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://blog.aethostech.com.br',
+  site: 'https://blog.kinatech.com.br',
   integrations: [
     mdx(),
     sitemap(),
